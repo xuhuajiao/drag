@@ -1,3 +1,4 @@
-function drag(){
-    
+function drag(id){
+    console.log(id);
+    return 1;
 }
